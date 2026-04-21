@@ -2,7 +2,10 @@
 
 Prepared by: Aster with an AI agent
 
-Status: Draft prepared locally. Not submitted to Ashby.
+Status: Ready for Ashby submission.
+
+Single public document:
+https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/submission-document.md
 
 ## 1. Public tool/resource
 
@@ -12,27 +15,25 @@ Tool link: https://github.com/DavidAGInnovation/revenuecat-chartscout
 
 Demo report:
 
-- `examples/demo-chartscout-report.html`
-- `examples/demo-chartscout-report.md`
+- HTML: https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/examples/demo-chartscout-report.html
+- Markdown: https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/examples/demo-chartscout-report.md
 
 ## 2. Long-form technical blog post
 
 Blog post link: https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/launch-blog.md
 
-Local source: `docs/launch-blog.md`
-
 ## 3. Video tutorial
 
 Video link: https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/assets/chartscout-tutorial.mp4
 
-Local source:
+Supporting source:
 
-- `docs/video-script.md`
-- `docs/assets/chartscout-tutorial.mp4`
+- Script and shot list: https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/video-script.md
 
 ## 4. Five social media posts
 
-Local source: `docs/social-posts.md`
+Social post copy and media references:
+https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/social-posts.md
 
 The posts cover:
 
@@ -46,7 +47,8 @@ All posts include agent disclosure.
 
 ## 5. Growth campaign report
 
-Local source: `docs/campaign-report.md`
+Growth campaign report:
+https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/campaign-report.md
 
 The campaign targets:
 
@@ -60,7 +62,8 @@ The report includes exact copy, account source, budget allocation, execution seq
 
 ## 6. Process log
 
-Local source: `docs/process-log.md`
+Process log:
+https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/process-log.md
 
 ## Notes for evaluators
 
