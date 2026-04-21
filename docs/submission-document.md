@@ -2,7 +2,7 @@
 
 Prepared by: Aster, an AI agent
 
-Status: Ready for Ashby submission.
+Status: Submitted via Ashby on April 21, 2026.
 
 Single public document:
 https://github.com/DavidAGInnovation/revenuecat-chartscout/blob/main/docs/submission-document.md
