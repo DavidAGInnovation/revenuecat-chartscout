@@ -1,0 +1,942 @@
+{
+  "charts": {
+    "actives": {
+      "category": "demo",
+      "description": "Synthetic active subscriptions data for local demos.",
+      "display_name": "Active subscriptions",
+      "display_type": "line",
+      "end_date": 1776643200,
+      "object": "chart_data",
+      "resolution": "day",
+      "segments": [
+        {
+          "decimal_precision": 2,
+          "display_name": "Active subscriptions",
+          "unit": "#"
+        }
+      ],
+      "start_date": 1774310400,
+      "summary": {
+        "average": {
+          "Active subscriptions": 3414.92
+        },
+        "total": {
+          "Active subscriptions": 95617.75
+        }
+      },
+      "values": [
+        [
+          1774310400,
+          3048.18
+        ],
+        [
+          1774396800,
+          3250.01
+        ],
+        [
+          1774483200,
+          3199.69
+        ],
+        [
+          1774569600,
+          3307.36
+        ],
+        [
+          1774656000,
+          3483.74
+        ],
+        [
+          1774742400,
+          3430.52
+        ],
+        [
+          1774828800,
+          3414.98
+        ],
+        [
+          1774915200,
+          3426.72
+        ],
+        [
+          1775001600,
+          3430.24
+        ],
+        [
+          1775088000,
+          3375.18
+        ],
+        [
+          1775174400,
+          3212.35
+        ],
+        [
+          1775260800,
+          3129.89
+        ],
+        [
+          1775347200,
+          3162.66
+        ],
+        [
+          1775433600,
+          3138.72
+        ],
+        [
+          1775520000,
+          3131.95
+        ],
+        [
+          1775606400,
+          3318.02
+        ],
+        [
+          1775692800,
+          3349.46
+        ],
+        [
+          1775779200,
+          3289.53
+        ],
+        [
+          1775865600,
+          3438.6
+        ],
+        [
+          1775952000,
+          3462.27
+        ],
+        [
+          1776038400,
+          3654.98
+        ],
+        [
+          1776124800,
+          3627.12
+        ],
+        [
+          1776211200,
+          3642.89
+        ],
+        [
+          1776297600,
+          3679.15
+        ],
+        [
+          1776384000,
+          3767.89
+        ],
+        [
+          1776470400,
+          3702.28
+        ],
+        [
+          1776556800,
+          3753.9
+        ],
+        [
+          1776643200,
+          3789.47
+        ]
+      ],
+      "yaxis": "#",
+      "yaxis_currency": null
+    },
+    "churn": {
+      "category": "demo",
+      "description": "Synthetic churn data for local demos.",
+      "display_name": "Churn",
+      "display_type": "line",
+      "end_date": 1776643200,
+      "object": "chart_data",
+      "resolution": "day",
+      "segments": [
+        {
+          "decimal_precision": 2,
+          "display_name": "Churn",
+          "unit": "%"
+        }
+      ],
+      "start_date": 1774310400,
+      "summary": {
+        "average": {
+          "Churn": 2.41
+        },
+        "total": {
+          "Churn": 67.57
+        }
+      },
+      "values": [
+        [
+          1774310400,
+          2.33
+        ],
+        [
+          1774396800,
+          2.49
+        ],
+        [
+          1774483200,
+          2.46
+        ],
+        [
+          1774569600,
+          2.67
+        ],
+        [
+          1774656000,
+          2.68
+        ],
+        [
+          1774742400,
+          2.7
+        ],
+        [
+          1774828800,
+          2.76
+        ],
+        [
+          1774915200,
+          2.83
+        ],
+        [
+          1775001600,
+          2.77
+        ],
+        [
+          1775088000,
+          2.68
+        ],
+        [
+          1775174400,
+          2.64
+        ],
+        [
+          1775260800,
+          2.52
+        ],
+        [
+          1775347200,
+          2.56
+        ],
+        [
+          1775433600,
+          2.31
+        ],
+        [
+          1775520000,
+          2.2
+        ],
+        [
+          1775606400,
+          2.29
+        ],
+        [
+          1775692800,
+          2.17
+        ],
+        [
+          1775779200,
+          2.0
+        ],
+        [
+          1775865600,
+          2.07
+        ],
+        [
+          1775952000,
+          2.06
+        ],
+        [
+          1776038400,
+          2.02
+        ],
+        [
+          1776124800,
+          2.2
+        ],
+        [
+          1776211200,
+          2.23
+        ],
+        [
+          1776297600,
+          2.12
+        ],
+        [
+          1776384000,
+          2.41
+        ],
+        [
+          1776470400,
+          2.39
+        ],
+        [
+          1776556800,
+          2.54
+        ],
+        [
+          1776643200,
+          2.47
+        ]
+      ],
+      "yaxis": "%",
+      "yaxis_currency": null
+    },
+    "customers_new": {
+      "category": "demo",
+      "description": "Synthetic new customers data for local demos.",
+      "display_name": "New customers",
+      "display_type": "line",
+      "end_date": 1776643200,
+      "object": "chart_data",
+      "resolution": "day",
+      "segments": [
+        {
+          "decimal_precision": 2,
+          "display_name": "New customers",
+          "unit": "#"
+        }
+      ],
+      "start_date": 1774310400,
+      "summary": {
+        "average": {
+          "New customers": 70.36
+        },
+        "total": {
+          "New customers": 1970.12
+        }
+      },
+      "values": [
+        [
+          1774310400,
+          64.23
+        ],
+        [
+          1774396800,
+          63.63
+        ],
+        [
+          1774483200,
+          69.38
+        ],
+        [
+          1774569600,
+          69.89
+        ],
+        [
+          1774656000,
+          71.37
+        ],
+        [
+          1774742400,
+          71.65
+        ],
+        [
+          1774828800,
+          71.36
+        ],
+        [
+          1774915200,
+          67.97
+        ],
+        [
+          1775001600,
+          68.76
+        ],
+        [
+          1775088000,
+          66.72
+        ],
+        [
+          1775174400,
+          66.66
+        ],
+        [
+          1775260800,
+          64.32
+        ],
+        [
+          1775347200,
+          65.16
+        ],
+        [
+          1775433600,
+          67.6
+        ],
+        [
+          1775520000,
+          64.49
+        ],
+        [
+          1775606400,
+          67.35
+        ],
+        [
+          1775692800,
+          66.82
+        ],
+        [
+          1775779200,
+          67.96
+        ],
+        [
+          1775865600,
+          71.89
+        ],
+        [
+          1775952000,
+          73.71
+        ],
+        [
+          1776038400,
+          73.37
+        ],
+        [
+          1776124800,
+          75.57
+        ],
+        [
+          1776211200,
+          74.23
+        ],
+        [
+          1776297600,
+          75.69
+        ],
+        [
+          1776384000,
+          79.11
+        ],
+        [
+          1776470400,
+          77.36
+        ],
+        [
+          1776556800,
+          76.81
+        ],
+        [
+          1776643200,
+          77.06
+        ]
+      ],
+      "yaxis": "#",
+      "yaxis_currency": null
+    },
+    "mrr": {
+      "category": "demo",
+      "description": "Synthetic mrr data for local demos.",
+      "display_name": "MRR",
+      "display_type": "line",
+      "end_date": 1776643200,
+      "object": "chart_data",
+      "resolution": "day",
+      "segments": [
+        {
+          "decimal_precision": 2,
+          "display_name": "MRR",
+          "unit": "$"
+        }
+      ],
+      "start_date": 1774310400,
+      "summary": {
+        "average": {
+          "MRR": 19918.11
+        },
+        "total": {
+          "MRR": 557706.99
+        }
+      },
+      "values": [
+        [
+          1774310400,
+          18642.71
+        ],
+        [
+          1774396800,
+          18798.64
+        ],
+        [
+          1774483200,
+          19484.94
+        ],
+        [
+          1774569600,
+          19739.16
+        ],
+        [
+          1774656000,
+          19744.31
+        ],
+        [
+          1774742400,
+          20435.73
+        ],
+        [
+          1774828800,
+          19693.41
+        ],
+        [
+          1774915200,
+          19820.31
+        ],
+        [
+          1775001600,
+          19992.6
+        ],
+        [
+          1775088000,
+          19487.9
+        ],
+        [
+          1775174400,
+          19544.71
+        ],
+        [
+          1775260800,
+          18952.35
+        ],
+        [
+          1775347200,
+          18944.6
+        ],
+        [
+          1775433600,
+          18026.5
+        ],
+        [
+          1775520000,
+          18291.28
+        ],
+        [
+          1775606400,
+          18522.53
+        ],
+        [
+          1775692800,
+          18523.7
+        ],
+        [
+          1775779200,
+          19084.58
+        ],
+        [
+          1775865600,
+          19352.15
+        ],
+        [
+          1775952000,
+          20046.68
+        ],
+        [
+          1776038400,
+          20965.44
+        ],
+        [
+          1776124800,
+          21038.43
+        ],
+        [
+          1776211200,
+          21384.32
+        ],
+        [
+          1776297600,
+          21414.41
+        ],
+        [
+          1776384000,
+          21604.31
+        ],
+        [
+          1776470400,
+          22455.22
+        ],
+        [
+          1776556800,
+          21978.6
+        ],
+        [
+          1776643200,
+          21737.47
+        ]
+      ],
+      "yaxis": "$",
+      "yaxis_currency": "USD"
+    },
+    "refund_rate": {
+      "category": "demo",
+      "description": "Synthetic refund rate data for local demos.",
+      "display_name": "Refund rate",
+      "display_type": "line",
+      "end_date": 1776643200,
+      "object": "chart_data",
+      "resolution": "day",
+      "segments": [
+        {
+          "decimal_precision": 2,
+          "display_name": "Refund rate",
+          "unit": "%"
+        }
+      ],
+      "start_date": 1774310400,
+      "summary": {
+        "average": {
+          "Refund rate": 0.7
+        },
+        "total": {
+          "Refund rate": 19.73
+        }
+      },
+      "values": [
+        [
+          1774310400,
+          0.71
+        ],
+        [
+          1774396800,
+          0.88
+        ],
+        [
+          1774483200,
+          0.8
+        ],
+        [
+          1774569600,
+          0.99
+        ],
+        [
+          1774656000,
+          0.95
+        ],
+        [
+          1774742400,
+          1.07
+        ],
+        [
+          1774828800,
+          1.05
+        ],
+        [
+          1774915200,
+          0.98
+        ],
+        [
+          1775001600,
+          1.04
+        ],
+        [
+          1775088000,
+          0.91
+        ],
+        [
+          1775174400,
+          0.94
+        ],
+        [
+          1775260800,
+          0.93
+        ],
+        [
+          1775347200,
+          0.65
+        ],
+        [
+          1775433600,
+          0.7
+        ],
+        [
+          1775520000,
+          0.49
+        ],
+        [
+          1775606400,
+          0.52
+        ],
+        [
+          1775692800,
+          0.5
+        ],
+        [
+          1775779200,
+          0.31
+        ],
+        [
+          1775865600,
+          0.34
+        ],
+        [
+          1775952000,
+          0.34
+        ],
+        [
+          1776038400,
+          0.41
+        ],
+        [
+          1776124800,
+          0.3
+        ],
+        [
+          1776211200,
+          0.41
+        ],
+        [
+          1776297600,
+          0.46
+        ],
+        [
+          1776384000,
+          0.59
+        ],
+        [
+          1776470400,
+          0.64
+        ],
+        [
+          1776556800,
+          0.88
+        ],
+        [
+          1776643200,
+          0.94
+        ]
+      ],
+      "yaxis": "%",
+      "yaxis_currency": null
+    },
+    "revenue": {
+      "category": "demo",
+      "description": "Synthetic revenue data for local demos.",
+      "display_name": "Revenue",
+      "display_type": "line",
+      "end_date": 1776643200,
+      "object": "chart_data",
+      "resolution": "day",
+      "segments": [
+        {
+          "decimal_precision": 2,
+          "display_name": "Revenue",
+          "unit": "$"
+        }
+      ],
+      "start_date": 1774310400,
+      "summary": {
+        "average": {
+          "Revenue": 673.79
+        },
+        "total": {
+          "Revenue": 18866.21
+        }
+      },
+      "values": [
+        [
+          1774310400,
+          626.05
+        ],
+        [
+          1774396800,
+          615.28
+        ],
+        [
+          1774483200,
+          640.68
+        ],
+        [
+          1774569600,
+          650.45
+        ],
+        [
+          1774656000,
+          681.3
+        ],
+        [
+          1774742400,
+          683.3
+        ],
+        [
+          1774828800,
+          693.17
+        ],
+        [
+          1774915200,
+          655.01
+        ],
+        [
+          1775001600,
+          663.38
+        ],
+        [
+          1775088000,
+          638.32
+        ],
+        [
+          1775174400,
+          637.9
+        ],
+        [
+          1775260800,
+          642.5
+        ],
+        [
+          1775347200,
+          615.94
+        ],
+        [
+          1775433600,
+          620.73
+        ],
+        [
+          1775520000,
+          641.42
+        ],
+        [
+          1775606400,
+          642.08
+        ],
+        [
+          1775692800,
+          637.13
+        ],
+        [
+          1775779200,
+          665.61
+        ],
+        [
+          1775865600,
+          690.0
+        ],
+        [
+          1775952000,
+          671.13
+        ],
+        [
+          1776038400,
+          721.59
+        ],
+        [
+          1776124800,
+          731.16
+        ],
+        [
+          1776211200,
+          727.18
+        ],
+        [
+          1776297600,
+          727.16
+        ],
+        [
+          1776384000,
+          765.93
+        ],
+        [
+          1776470400,
+          738.92
+        ],
+        [
+          1776556800,
+          724.62
+        ],
+        [
+          1776643200,
+          718.27
+        ]
+      ],
+      "yaxis": "$",
+      "yaxis_currency": "USD"
+    }
+  },
+  "currency": "USD",
+  "generated_at": "2026-04-21T20:49:50.431825+00:00",
+  "overview": {
+    "metrics": [
+      {
+        "description": "In total",
+        "id": "active_trials",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "Active Trials",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "#",
+        "value": 142
+      },
+      {
+        "description": "In total",
+        "id": "active_subscriptions",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "Active Subscriptions",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "#",
+        "value": 3180
+      },
+      {
+        "description": "Monthly Recurring Revenue",
+        "id": "mrr",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "MRR",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "$",
+        "value": 18420
+      },
+      {
+        "description": "Last 28 days",
+        "id": "revenue",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "Revenue",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "$",
+        "value": 20570
+      },
+      {
+        "description": "Last 28 days",
+        "id": "new_customers",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "New Customers",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "#",
+        "value": 1920
+      },
+      {
+        "description": "Last 28 days",
+        "id": "active_users",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "Active Users",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "#",
+        "value": 42100
+      },
+      {
+        "description": "Last 28 days",
+        "id": "num_tx_last_28_days",
+        "last_updated_at": null,
+        "last_updated_at_iso8601": null,
+        "name": "Transactions",
+        "object": "overview_metric",
+        "period": "P28D",
+        "unit": "#",
+        "value": 980
+      }
+    ],
+    "object": "overview_metrics"
+  },
+  "project": {
+    "id": "demo_project",
+    "name": "Demo Subscription App"
+  },
+  "range": {
+    "end_date": "2026-04-20",
+    "start_date": "2026-03-24"
+  }
+}

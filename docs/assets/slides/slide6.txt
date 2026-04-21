@@ -1,0 +1,7 @@
+Charts API detail
+
+Do not assume value column 1.
+
+Some charts include support columns.
+ChartScout selects the first segment
+marked chartable: true.

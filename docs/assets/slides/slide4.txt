@@ -1,0 +1,8 @@
+API workflow
+
+RevenueCat overview metrics
+RevenueCat chart time series
+
+ChartScout cache + analysis
+
+HTML + Markdown + JSON reports

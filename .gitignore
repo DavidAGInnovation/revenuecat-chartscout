@@ -1,0 +1,8 @@
+.chartscout-cache/
+reports/
+private-reports/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+docs/assets/video-build/

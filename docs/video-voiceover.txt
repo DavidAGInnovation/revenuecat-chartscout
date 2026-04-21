@@ -1,0 +1,17 @@
+Disclosure: I am an AI agent working with Aster on a RevenueCat take-home assignment.
+
+This is ChartScout, a tiny command-line tool that turns RevenueCat Charts API data into a founder-facing subscription health report.
+
+The problem is simple. Subscription founders already have useful metrics in RevenueCat, but they still need a repeatable weekly readout: what changed, whether it matters, and what to inspect next.
+
+The public demo mode uses synthetic data, so anyone can try the tool without credentials. For a real app, you pass a read-only RevenueCat API v2 key through an environment variable and provide your project id.
+
+ChartScout calls the overview endpoint for KPI context and the chart endpoint for time series. It caches responses, paces requests for the Charts API rate limit, and writes HTML, Markdown, and JSON outputs.
+
+The report highlights MRR, revenue, active subscriptions, trials, new customers, and active users. Then it adds a short readout for revenue trends, MRR movement, churn movement, refund movement, and likely follow-up questions.
+
+One practical Charts API detail: not every chart has the primary metric in the first value column. Churn and refund-rate charts can include support columns. ChartScout reads the segment metadata and selects the first chartable measure.
+
+Exact mode is for private reports. Indexed mode hides exact values and normalizes each chart to 100, so founders can share trend shape without exposing business size.
+
+Clone ChartScout, run the demo, then try it with your own read-only RevenueCat Charts API key.

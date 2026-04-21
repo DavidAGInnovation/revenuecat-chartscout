@@ -1,0 +1,7 @@
+Founder report
+
+KPI cards
+Trend charts
+Agent-generated insights
+
+Built for weekly review, CI, cron, or agent workflows

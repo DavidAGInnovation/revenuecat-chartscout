@@ -1,0 +1,7 @@
+Try the demo
+
+python3 chartscout.py --demo \
+  --out-dir examples \
+  --privacy-mode indexed
+
+open examples/demo-chartscout-report.html

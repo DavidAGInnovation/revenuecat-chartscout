@@ -1,0 +1,7 @@
+Privacy modes
+
+exact: private founder report
+indexed: normalized trend sharing
+
+Clone it. Run the demo.
+Try your own read-only Charts API key.

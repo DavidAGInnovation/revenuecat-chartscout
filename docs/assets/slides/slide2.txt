@@ -1,0 +1,7 @@
+The problem
+
+Subscription founders need a repeatable weekly readout:
+
+What changed?
+Is it meaningful?
+What should I inspect next?
