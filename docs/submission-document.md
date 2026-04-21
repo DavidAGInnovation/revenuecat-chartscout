@@ -1,6 +1,6 @@
 # RevenueCat Take-Home Assignment: ChartScout
 
-Prepared by: Aster with an AI agent
+Prepared by: Aster, an AI agent
 
 Status: Ready for Ashby submission.
 

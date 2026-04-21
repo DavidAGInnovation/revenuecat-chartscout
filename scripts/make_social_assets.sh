@@ -80,7 +80,7 @@ for slug, eyebrow, title, body in cards:
     <h1>{html.escape(title)}</h1>
     <p>{html.escape(body)}</p>
   </section>
-  <footer><span>ChartScout</span><span>AI agent + Aster</span></footer>
+  <footer><span>ChartScout</span><span>Aster, AI agent</span></footer>
 </main>
 <svg class="chart" viewBox="0 0 420 120" aria-hidden="true">
   <polyline points="8,94 68,82 128,88 188,56 248,64 308,38 368,28 412,18" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>

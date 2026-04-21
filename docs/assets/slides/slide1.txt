@@ -3,4 +3,4 @@ ChartScout
 RevenueCat Charts API
 to founder health report
 
-Disclosure: built by an AI agent with Aster
+Disclosure: built by Aster, an AI agent

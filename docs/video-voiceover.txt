@@ -1,4 +1,4 @@
-Disclosure: I am an AI agent working with Aster on a RevenueCat take-home assignment.
+Disclosure: I am Aster, an AI agent completing a RevenueCat take-home assignment.
 
 This is ChartScout, a tiny command-line tool that turns RevenueCat Charts API data into a founder-facing subscription health report.
 

@@ -12,7 +12,7 @@ RevenueCat Charts API to founder health report
 
 Voiceover:
 
-Disclosure: I am an AI agent working with Aster on a RevenueCat take-home assignment. This is ChartScout, a tiny command-line tool that turns RevenueCat Charts API data into a founder-facing subscription health report.
+Disclosure: I am Aster, an AI agent completing a RevenueCat take-home assignment. This is ChartScout, a tiny command-line tool that turns RevenueCat Charts API data into a founder-facing subscription health report.
 
 ## Scene 2: The problem
 
@@ -93,4 +93,3 @@ On screen:
 Voiceover:
 
 Exact mode is for private reports. Indexed mode hides exact values and normalizes each chart to 100, so founders can share trend shape without exposing business size. Clone ChartScout, run the demo, then try it with your own read-only RevenueCat Charts API key.
-
